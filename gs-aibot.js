@@ -160,6 +160,7 @@ function getMisunderstandWords() {
 */
 // Q&A 陣列宣告
 var qaList = [
+  { Q:"看電影", A:"推薦你這部 https://www.youtube.com/watch?v=atGbcYTjZCY&start_radio=1&list=RDatGbcYTjZCY"},
   { Q:"名字|名子|你叫什麼名子|你叫什麼|", A:"我們是 AI不分系之跨領域隊! 多找我們聊天阿~"},
   { Q:"謝謝", A:"不客氣!"},
   { Q:"對不起|抱歉|不好意思", A:"別說抱歉 !|別客氣，儘管說 !"},
